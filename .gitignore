@@ -1,0 +1,5 @@
+# env
+.venv
+dataset/*
+model/*
+static/*

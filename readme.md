@@ -17,13 +17,14 @@ En consola, estando en el directorio raiz del proyecto ejecutar
 
 # Fuentes
 
-## Dataset
+### Dataset
 https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
-## Google Colab
+### Google Colab
 https://colab.research.google.com/drive/16GlSRQkGI2jCXVwzmcLwnqqCQSNbQtPT?usp=sharing#scrollTo=mSZ6vkoVbb8z
 
 # Librerias
+Dependencias del proyecto
 
 ## Flask
 Para el servidor

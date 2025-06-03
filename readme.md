@@ -1,9 +1,9 @@
 # Instrucciones
 
-## Instalacion
+## Instalación
 En consola, estando en el directorio raiz del proyecto ejecutar
 
-`pip install -r "requeriments.txt"`
+`pip install -r "requirements.txt"`
 
 ## Modelo
 Asegurarse de tener el modelo entrenado en la carpeta 
